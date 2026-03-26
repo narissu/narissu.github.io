@@ -1,20 +1,13 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![narissu](https://img.shields.io/badge/narissu-github-blue?logo=github)](https://github.com/narissu)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Bachelor's degree in Computer Science and Technology at Hainan University.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Email 
+<code>20233005233@hainanu.edu.cn</code> 
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### Education 
+**Hainan University**, Bachelor of Computer Science and Technology (2023.09 – Present) 
+• GPA: 3.68/4.0 | Major Rank: 39/198 (Top 20%) 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### Research Interests 
+Large Language Models (LLMs), Sequence Analysis, Multimodal Fusion, Deep Learning Architectures.
